@@ -23,5 +23,14 @@
     * Executar o comando (node src/server.js), para iniciar o server
 * [x] Criar uma rota da aplicação
     * [x] Entender request, response
-    * [] Primeiro entendimento de callback
+    * [x] Primeiro entendimento de callback
     * [] Está confuso sobre HTTP? Discover
+* [x] Criar uma lista de dados para criar o relatório
+* [] Criar um HTML
+* [] Mostrar na rota
+* [] Enviar dados para o HTML (template engine)
+* [] Segundo entendimento de callback
+* [] Utilizar o html-pdf e configurar as opções
+* [] Callback de novo?
+* [] Gerar o arquivo
+* [] 
