@@ -21,7 +21,7 @@
         - const app = express()
         - app.listen(3000)
     * Executar o comando (node src/server.js), para iniciar o server
-* [] Criar uma rota da aplicação
-    * [] Entender request, response
+* [x] Criar uma rota da aplicação
+    * [x] Entender request, response
     * [] Primeiro entendimento de callback
     * [] Está confuso sobre HTTP? Discover
