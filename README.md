@@ -26,7 +26,7 @@
     * [x] Primeiro entendimento de callback
     * [] Está confuso sobre HTTP? Discover
 * [x] Criar uma lista de dados para criar o relatório
-* [] Criar um HTML
+* [ ] Criar um HTML
 * [] Mostrar na rota
 * [] Enviar dados para o HTML (template engine)
 * [] Segundo entendimento de callback
